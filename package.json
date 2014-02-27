@@ -1,0 +1,14 @@
+{
+  "name": "rjs-test",
+  "version": "0.0.0",
+  "description": "Trying to debug an r.js issue",
+  "main": "index.js",
+  "scripts": {
+    "build": "r.js -o config-optimizer.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "requirejs": "~2.1.11"
+  }
+}
