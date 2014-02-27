@@ -1,3 +1,3 @@
-require(['../activities/first/main'], function() {
+require(['activities/first/main'], function() {
   console.log('Loaded.');
 });

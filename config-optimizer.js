@@ -9,7 +9,7 @@
   dir: 'out',
   modules: [
     {
-      name: '../activities/first/main'
+      name: 'activities/first/main'
     }
   ]
 })

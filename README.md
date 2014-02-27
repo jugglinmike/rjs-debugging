@@ -1,4 +1,9 @@
-# r.js issue
+# RequireJS Module Question
+
+**Update** Problem solved--@jrburke came to the rescue!. This project now see
+describes a working project--see
+[issue #1](https://github.com/jugglinmike/rjs-debugging/issues/1) for the
+details.
 
 ## Background
 
